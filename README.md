@@ -69,9 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### You can access the full, detailed documentation for this project as a PDF file:
-📥 Download Project PDF
+### You can access the full, detailed documentation for this project as a PDF file:  
+[📥 Download Project PDF](./docs/serverless-cloud-dictionary-documentation.pdf)
 
-### This project is licensed under the MIT License — see the LICENSE file for details.
+### This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
 
 
